@@ -5,7 +5,6 @@
 **Client**: Internal Development Team at SmartMeta  
 **Tech Stack**: Next.js, Tailwind CSS, Google reCAPTCHA  
 **Website**: [smartmeta.net/smart-tools](https://smartmeta.net/smart-tools)  
-**Launch Date**: April 2025
 
 ---
 
