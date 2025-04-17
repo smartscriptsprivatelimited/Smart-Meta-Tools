@@ -1,14 +1,14 @@
-# Smart-Meta-Tools
+# Smart Meta Tools
 
-# Case Study: SmartMeta Smart Tools
-
-**Client**: Internal Development Team at SmartMeta  
+**Client**: Internal Development Team at Smartscripts  
 **Tech Stack**: Next.js, Tailwind CSS, Google reCAPTCHA  
 **Website**: [smartmeta.net/smart-tools](https://smartmeta.net/smart-tools)  
 
 ---
 
-## Project Overview
+![Smart Meta Tools](SmartMetaTools.png)
+
+## Overview
 
 SmartMeta Smart Tools is an in-house initiative designed to provide a comprehensive suite of utilities aimed at enhancing productivity and simplifying everyday tasks. The platform offers a diverse range of tools, including text manipulators, SEO utilities, calculators, and more, catering to the needs of developers, content creators, marketers, and general users.
 
